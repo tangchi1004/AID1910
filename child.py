@@ -1,6 +1,6 @@
 from time import sleep
 import os
-
+啦啦啦
 def fun1():
     for i in range(3):
         sleep(2)
